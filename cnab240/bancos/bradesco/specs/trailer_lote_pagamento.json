@@ -1,0 +1,83 @@
+{
+  "nome": "TrailerLoteCobranca",
+  "campos": {
+    "01.5": {
+      "nome": "controle_banco",
+      "posicao_inicio": 1,
+      "posicao_fim": 3,
+      "formato": "num",
+      "default": 237
+      },
+
+    "02.5": {
+      "nome": "controle_lote",
+      "posicao_inicio": 4,
+      "posicao_fim": 7,
+      "formato": "num"
+    },
+
+    "03.5": {
+      "nome": "controle_registro",
+      "posicao_inicio": 8,
+      "posicao_fim": 8,
+      "formato": "num",
+      "default": 5
+    },
+
+    "04.5": {
+      "nome": "febraban_cnab04d5",
+      "posicao_inicio": 9,
+      "posicao_fim": 17,
+      "formato": "alfa",
+      "default": ""
+    },
+
+    "05.5": {
+      "nome": "quantidade_registros",
+      "posicao_inicio": 18,
+      "posicao_fim": 23,
+      "formato": "num"
+    },
+
+    "06.5": {
+      "nome": "somatoria_valores",
+      "posicao_inicio": 24,
+      "posicao_fim": 41,
+      "formato": "num",
+      "decimais": 2,
+    },
+
+    "07.5": {
+      "nome": "somatoria_qtd_moedas",
+      "posicao_inicio": 42,
+      "posicao_fim": 59,
+      "formato": "num",
+      "decimais": 5,
+      "default": 0
+    },
+
+    "08.5": {
+      "nome": "num_aviso",
+      "posicao_inicio": 60,
+      "posicao_fim": 65,
+      "formato": "num"
+    },
+
+    "09.5": {
+      "nome": "febraban_cnab15d5",
+      "posicao_inicio": 66,
+      "posicao_fim": 230,
+      "formato": "alfa",
+      "decimais": ""
+    },
+
+    "10.5": {
+      "nome": "ocorrencias",
+      "posicao_inicio": 231,
+      "posicao_fim": 240,
+      "formato": "alfa",
+      "decimais": ""
+    }
+
+  }
+}
