@@ -102,7 +102,7 @@
       "nome": "cedente_conta",
       "posicao_inicio": 59,
       "posicao_fim": 70,
-      "formato": "alfa"
+      "formato": "num"
     },
 
     "15.1": {

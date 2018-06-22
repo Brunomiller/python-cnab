@@ -63,8 +63,7 @@
       "nome": "favorecido_numero_agencia",
       "posicao_inicio": 24,
       "posicao_fim": 28,
-      "formato": "alfa",
-      "default": ""
+      "formato": "num"
     },
     "10.3A": {
       "nome": "favorecido_dv_agencia",
@@ -77,8 +76,7 @@
       "nome": "favorecido_numero_conta",
       "posicao_inicio": 30,
       "posicao_fim": 41,
-      "formato": "num",
-      "default": ""
+      "formato": "num"
     },
     "12.3A": {
       "nome": "favorecido_dv_conta",
