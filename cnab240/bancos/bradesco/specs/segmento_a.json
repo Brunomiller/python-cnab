@@ -1,5 +1,5 @@
 {
-  "nome": "segmento_a",
+  "nome": "SegmentoA",
   "campos": {
     "00.3A": {
       "nome": "controle_banco",
@@ -54,48 +54,48 @@
       "formato": "num"
     },
     "08.3A": {
-      "nome": "banco_favorecido",
+      "nome": "favorecido_banco",
       "posicao_inicio": 21,
       "posicao_fim": 23,
       "formato": "num"
     },
     "09.3A": {
-      "nome": "numero_agencia_favorecido",
+      "nome": "favorecido_numero_agencia",
       "posicao_inicio": 24,
       "posicao_fim": 28,
       "formato": "alfa",
       "default": ""
     },
     "10.3A": {
-      "nome": "dv_agencia_favorecido",
+      "nome": "favorecido_dv_agencia",
       "posicao_inicio": 29,
       "posicao_fim": 29,
       "formato": "alfa",
       "default": ""
     },
     "11.3A": {
-      "nome": "numero_conta_favorecido",
+      "nome": "favorecido_numero_conta",
       "posicao_inicio": 30,
       "posicao_fim": 41,
       "formato": "num",
       "default": ""
     },
     "12.3A": {
-      "nome": "dv_conta_favorecido",
+      "nome": "favorecido_dv_conta",
       "posicao_inicio": 42,
       "posicao_fim": 42,
       "formato": "alfa",
       "default": ""
     },
     "13.3A": {
-      "nome": "dv_agencia_conta_favorecido",
+      "nome": "favorecido_dv_agencia_conta",
       "posicao_inicio": 43,
       "posicao_fim": 43,
       "formato": "alfa",
       "default": ""
     },
     "14.3A": {
-      "nome": "nome_favorecido",
+      "nome": "favorecido_nome",
       "posicao_inicio": 44,
       "posicao_fim": 73,
       "formato": "alfa",
@@ -153,7 +153,7 @@
       "formato": "num",
       "decimais": 2
     },
-    "20.3A": {
+    "23.3A": {
       "nome": "informacao_2",
       "posicao_inicio": 178,
       "posicao_fim": 217,

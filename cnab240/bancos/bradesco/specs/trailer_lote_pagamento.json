@@ -1,5 +1,5 @@
 {
-  "nome": "TrailerLoteCobranca",
+  "nome": "TrailerLotePagamento",
   "campos": {
     "01.5": {
       "nome": "controle_banco",
@@ -44,7 +44,7 @@
       "posicao_inicio": 24,
       "posicao_fim": 41,
       "formato": "num",
-      "decimais": 2,
+      "decimais": 2
     },
 
     "07.5": {

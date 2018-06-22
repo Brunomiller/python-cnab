@@ -1,5 +1,5 @@
 {
-  "nome": "HeaderLoteExtrato",
+  "nome": "HeaderLotePagamento",
   "campos": {
     "01.1": {
       "nome": "controle_banco",
@@ -29,7 +29,7 @@
       "posicao_inicio": 9,
       "posicao_fim": 9,
       "formato": "alfa",
-      "default": "E"
+      "default": "C"
     },
 
     "05.1": {
@@ -44,8 +44,7 @@
       "nome": "servico_forma_lancamento",
       "posicao_inicio": 12,
       "posicao_fim": 13,
-      "formato": "num",
-      "default": 40
+      "formato": "num"
     },
 
     "07.1": {
