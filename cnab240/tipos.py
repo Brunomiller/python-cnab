@@ -277,6 +277,7 @@ class Arquivo(object):
 
     def escrever(self, file_):
         file_.write(str(self).encode('ascii'))
+        #file_.write(unicode(self).encode('ascii'))
 
     def __str__(self):
         if not self._lotes:

@@ -196,7 +196,7 @@
       "posicao_inicio": 223,
       "posicao_fim": 224,
       "formato": "num",
-      "default": "01"
+      "default": 1
     },
 
     "27.1": {
