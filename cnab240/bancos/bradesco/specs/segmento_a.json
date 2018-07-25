@@ -117,7 +117,7 @@
       "posicao_inicio": 102,
       "posicao_fim": 104,
       "formato": "alfa",
-      "default": "REA"
+      "default": "BRL"
     },
     "18.3A": {
       "nome": "qtd_moeda",
