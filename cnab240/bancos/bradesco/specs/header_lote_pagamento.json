@@ -36,8 +36,7 @@
       "nome": "servico_servico",
       "posicao_inicio": 10,
       "posicao_fim": 11,
-      "formato": "num",
-      "default": 4
+      "formato": "num"
     },
 
     "06.1": {
